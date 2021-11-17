@@ -1,8 +1,7 @@
 //SPDX-License-Identifier: MatiAlvarez21
-pragma solidity ^0.8.0;
-
 import "hardhat/console.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+pragma solidity ^0.8.0;
 
 /*
     Que el Casino tenga su propia moneda (CTN).
